@@ -1,1 +1,1 @@
-### student performance indicatoe ###
+### student performance indicator ###
